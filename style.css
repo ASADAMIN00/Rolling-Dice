@@ -1,0 +1,34 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: url(https://img.freepik.com/free-vector/ludo-boardgame-various-perspectives_23-2148681123.jpg);
+    background-size: cover;
+    width: 100%;
+    
+
+}
+.dice {
+    margin-left: 50%;
+    margin-top: 10%;
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+}
+button{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    background-color: lightblue;
+    border-color: rgb(255, 153, 0);
+    font-family: sans-serif;
+}
+#Result{
+    margin-top: 30px;
+    margin-left: 20px;
+    font-family: sans-serif;
+}
+h1{
+    color: crimson;
+    font-style: italic;
+}
